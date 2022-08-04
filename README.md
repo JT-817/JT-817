@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JT-817
+- 👋 Hi, I’m Josh
 - 👀 I’m interested in ... MERN Stack
 - 🌱 I’m currently learning ... Javascript and React
 - 📫 How to reach me ...Contact me on twitter at @JT_817
